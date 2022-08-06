@@ -1,0 +1,14 @@
+nav {
+    height: 70px;
+    background-color: rgba(128, 128, 128, 0.411);
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+}
+
+a:hover {
+   text-decoration: underline; 
+}
